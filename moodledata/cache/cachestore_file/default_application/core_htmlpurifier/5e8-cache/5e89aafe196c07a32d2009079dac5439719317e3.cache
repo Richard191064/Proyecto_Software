@@ -1,0 +1,22 @@
+s:845:"<div class="grupo-tarjetas">
+<div class="bloque-tarjeta"><img class="imagen-bloque" src="/COL1.jpg" alt="Sucursal 1" />
+<div class="contenido-bloque">
+<h3 class="titulo-bloque">Sucursal 1</h3>
+<p class="texto-bloque">Av. Revolución #123, Colonia Centro, Ciudad de México.</p>
+</div>
+</div>
+
+<div class="bloque-tarjeta"><img class="imagen-bloque" src="/COL2.jpg" alt="Sucursal 2" />
+<div class="contenido-bloque">
+<h3 class="titulo-bloque">Sucursal 2</h3>
+<p class="texto-bloque">Calle Independencia #456, Colonia Roma, Ciudad de México.</p>
+</div>
+</div>
+
+<div class="bloque-tarjeta"><img class="imagen-bloque" src="/COL3.jpg" alt="Sucursal 3" />
+<div class="contenido-bloque">
+<h3 class="titulo-bloque">Sucursal 3</h3>
+<p class="texto-bloque">Blvd. Reforma #789, Zona Polanco, Ciudad de México.</p>
+</div>
+</div>
+</div>";

@@ -1,0 +1,2 @@
+s:323:"<p>Los sustituibles (placeholders) son instrucciones especiales, como '{$a}' o '{$a-&gt;algo}' dentro de una cadena de texto. Se sustituyen con un valor cuando se imprime la cadena de texto. Es importante copiarlos exactamente igual a como están en la cadena original. NO LOS TRADUZCA NI CAMBIE SU ESTRUCTURA INTERNA.</p>
+";

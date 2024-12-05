@@ -1,0 +1,40 @@
+s:833:"<div class="contenedor-tarjetas">
+<div class="card">
+<p class="heading">Problema 1</p>
+<p class="ecu">2x + 3 = 7</p>
+<p>Haz clic para ver la solución</p>
+</div>
+
+<div class="modal">
+<div class="modal-contenido">×
+<h2 class="solu">Solución</h2>
+<p class="resp">La solución es: x = 2</p>
+</div>
+</div>
+
+<div class="card">
+<p class="heading">Problema 2</p>
+<p>Área de un círculo (radio: 5 cm)</p>
+<p>Haz clic para ver la solución</p>
+</div>
+
+<div class="modal">
+<div class="modal-contenido">×
+<h2>Solución</h2>
+<p>Área = 78.54 cm²</p>
+</div>
+</div>
+
+<div class="card">
+<p class="heading">Problema 3</p>
+<p>f(x) = 3x² + 2, f(4)</p>
+<p>Haz clic para ver la solución</p>
+</div>
+
+<div class="modal">
+<div class="modal-contenido">×
+<h2>Solución</h2>
+<p>f(4) = 50</p>
+</div>
+</div>
+</div>";
